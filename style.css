@@ -1,0 +1,33 @@
+.bg-img{
+    background-image: url("bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bg-img2{
+    background-image: url("bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+.buy-now{
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.see{
+    color: #FFA617;
+    border: none;
+    background: none;
+}
+.items{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+    padding: 30px;
+}
+.phone{
+    margin-top: 20px;
+}
+.margin{
+    margin-top: 30px;
+}
